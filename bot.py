@@ -5,7 +5,7 @@ from aiogram.types import Message
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "ВАШ_ТОКЕН_СЮДА"  # ← вставьте токен сюда
+BOT_TOKEN = "8980556144:AAHuFoXEG1cwulFQLGZReuM8uoVf16N8Q80"  # ← вставьте токен сюда
 
 AUTO_REPLY_TEXT = """
 Warning: the Telegram account associated with this contact has been compromised and published
